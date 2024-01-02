@@ -7,5 +7,6 @@
 ### 소개
 java를 이용하여 MyLinkedList class를 직접 작성한 프로젝트입니다.
 
+add(), get(), delete() 등의 api를 지원하고, Iterator interface를 상속받아 forEach()로 순회 가능하게 하였습니다.
 
-Iterator interface를 상속받아 forEach()로 순회 가능하게 하였으며, 추가로 MyQueue와 MyStack도 구현했습니다.
+추가로 MyQueue와 MyStack도 구현했습니다.
